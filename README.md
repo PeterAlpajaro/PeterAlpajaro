@@ -1,3 +1,3 @@
-Biomedical Engineer and University of Waterloo.
-Member of WATOLINK Design Team.
-Likes to build hardware and software solutions 
+Biomedical Engineering Student at the University of Waterloo.
+WATOLINK Design Team lead.
+Likes to build cool things.
